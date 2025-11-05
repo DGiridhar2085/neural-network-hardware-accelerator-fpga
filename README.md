@@ -1,4 +1,4 @@
-# 🧠 CNN Hardware Accelerator (Verilog HDL)
+# 🧠 Hardware Accelerator For Neural Network (Image and Vid Processing using CNN) (Verilog HDL)
 
 ### ⚡ FPGA-Based Convolutional Neural Network Accelerator Implemented in Verilog
 
